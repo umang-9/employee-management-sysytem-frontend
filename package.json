@@ -6,8 +6,7 @@
 	"scripts": {
 		"start": "nodemon -w uiserver.js uiserver.js",
 		"compile": "webpack --mode production",
-		"watch": "webpack --watch",
-		"build": "react-scripts build"
+		"watch": "webpack --watch"
 	},
 	"author": "Umang Patel",
 	"dependencies": {
